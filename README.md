@@ -27,18 +27,23 @@
 
 ## 🛠️ Skills & Tools
 
-**Languages:**  
-`HTML` `CSS` `JavaScript` `PHP` `Go (basic)`
+### 📄 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,go" />
+</p>
 
-**Frameworks & Libraries:**  
-`Laravel` `Next.js` `Gin` `React` `Tailwind CSS` `Bootstrap`
+### ⚙️ Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,tailwind,bootstrap" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Khoirrudin's GitHub stats](https://github-readme-stats.vercel.app/api?username=khoirrudin&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoirrudin&layout=compact)
+![Khoirrudin's GitHub stats](https://github-readme-stats.vercel.app/api?username=khoirrudin&show_icons=true&count_private=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoirrudin&layout=compact&theme=tokyonight)
 
 ---
 
